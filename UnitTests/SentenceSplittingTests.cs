@@ -16,7 +16,7 @@ namespace UnitTests
     public class SentenceSplittingTests
     {
         /// <summary>
-        /// The splitting regex.
+        /// The splitting regex
         /// </summary>
         private readonly Regex splittingRegex = new Regex(@"((\b[^\s]+\b)((?<=\.\w).)?)");
 

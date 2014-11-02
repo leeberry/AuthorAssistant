@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5" ModuleId="AuthorsAssistant" />
+  <Module PersistentId="2E3836CA-D664-402F-BA4A-CCA6037719BA" ModuleId="UnitTests" />
+</Modules>

@@ -1,0 +1,37 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:Presenter.cs" caret="0" fromTop="0" />
+      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:ObservableObject.cs" caret="0" fromTop="0" />
+      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/f:DelegateCommand.cs" caret="0" fromTop="0" />
+      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:SentenceSplittingTests.cs" caret="12576" fromTop="37" />
+      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:Sentences.xml" caret="1412" fromTop="26" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:Presenter.cs" caret="0" fromTop="0" />
+      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:ObservableObject.cs" caret="0" fromTop="0" />
+      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/f:DelegateCommand.cs" caret="0" fromTop="0" />
+      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:Sentences.xml" caret="0" fromTop="0" />
+      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:SentenceSplittingTests.cs" caret="12576" fromTop="37" />
+      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:Sentences.xml" caret="1412" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

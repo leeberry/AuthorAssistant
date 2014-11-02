@@ -3,7 +3,7 @@
     using System.ComponentModel;
 
     /// <summary>
-    /// Base class for the ViewModel classes that handles the implementation of the INotifyPropertyChanged interface.
+    /// Base class for the ViewModel classes that handles the implementation of the INotifyPropertyChanged interface
     /// This interface allows update messages to be passed to the View.
     /// </summary>
     public class ObservableObject : INotifyPropertyChanged

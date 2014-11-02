@@ -14,7 +14,7 @@
         private readonly Action action;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="DelegateCommand"/> class.
+        /// Initializes a new instance of the <see cref="DelegateCommand"/> class
         /// </summary>
         /// <param name="action">
         /// The action.

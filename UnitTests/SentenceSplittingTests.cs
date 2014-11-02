@@ -6,7 +6,6 @@ namespace UnitTests
     using System.Linq;
     using System.Text.RegularExpressions;
     using System.Xml.Linq;
-
     
     using NUnit.Framework;
 

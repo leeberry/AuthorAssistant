@@ -8,6 +8,7 @@
     <UserControl.InputBindings>
         <KeyBinding Key="Enter" Command="{Binding AnalyseSentenceCommand}"/>
     </UserControl.InputBindings>
+    
 
     <StackPanel Height="380">
         <Label Foreground="Blue" Margin="5,5,5,0">Sentence to analyse</Label>

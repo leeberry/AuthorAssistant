@@ -1,0 +1,8 @@
+C:\Development\UBS\AuthorsAssistant\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\UBS\AuthorsAssistant\UnitTests\bin\Debug\UnitTests.dll
+C:\Development\UBS\AuthorsAssistant\UnitTests\bin\Debug\UnitTests.pdb
+C:\Development\UBS\AuthorsAssistant\UnitTests\bin\Debug\AuthorsAssistant.exe
+C:\Development\UBS\AuthorsAssistant\UnitTests\bin\Debug\nunit.framework.dll
+C:\Development\UBS\AuthorsAssistant\UnitTests\bin\Debug\AuthorsAssistant.pdb
+C:\Development\UBS\AuthorsAssistant\UnitTests\obj\Debug\UnitTests.dll
+C:\Development\UBS\AuthorsAssistant\UnitTests\obj\Debug\UnitTests.pdb

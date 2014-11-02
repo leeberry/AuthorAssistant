@@ -10,14 +10,12 @@
     <RecentFiles>
       <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:Presenter.cs" caret="0" fromTop="0" />
       <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:ObservableObject.cs" caret="0" fromTop="0" />
-      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/f:DelegateCommand.cs" caret="0" fromTop="0" />
-      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:SentenceSplittingTests.cs" caret="12576" fromTop="37" />
       <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:Sentences.xml" caret="1412" fromTop="26" />
+      <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:SentenceSplittingTests.cs" caret="436" fromTop="20" />
     </RecentFiles>
     <RecentEdits>
       <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:Presenter.cs" caret="0" fromTop="0" />
       <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/d:ViewModel/f:ObservableObject.cs" caret="0" fromTop="0" />
-      <File id="ECA51DD9-D1EF-425F-B5BC-8D2C84FA5FB5/f:DelegateCommand.cs" caret="0" fromTop="0" />
       <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:Sentences.xml" caret="0" fromTop="0" />
       <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:SentenceSplittingTests.cs" caret="12576" fromTop="37" />
       <File id="2E3836CA-D664-402F-BA4A-CCA6037719BA/f:Sentences.xml" caret="1412" fromTop="26" />
@@ -30,8 +28,7 @@
     <Providers />
   </UnitTestRunner>
   <UnitTestRunnerNUnit>
-    <NUnitInstallDir IsNull="False">
-    </NUnitInstallDir>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6.3\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
 </Configuration>

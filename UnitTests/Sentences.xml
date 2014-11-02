@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sentences>
+  <!--Test simple sentence-->
+  <sentence test="1" text="The quick brown fox jumped over the lazy dog." />
+  <!--Test case sensitivity-->
+  <sentence test="2" text="The the quick brown fox jumped over oVer tHe lazy dog." />
+  <!--Test words and sentences with non-standard characters-->
+  <sentence test="3" text="This sentence has a wo¬rd with an unusual character in it." />
+  <!--Test numbers with precision-->
+  <sentence test="4" text="Harry drank 1.23l of water and 1.23l of milk in 2 hours." />
+  <!--Test email an address-->
+  <sentence test="5" text="His email address is john.doe@nowhere.com" />
+  <!--Test single word/number sentences-->
+  <sentence test="6" text="Two." />
+  <sentence test="7" text="2." />
+  <!--Test speech marks-->
+  <sentence test="8" text="Jenny watched Paul as he approached Jill and said &quot;Hi&quot;."  />
+  <!--Test colons-->
+  <sentence test="9" text="The committee now includes: the mayor, the village policeman and the local butcher." />
+  <!--Test question marks-->
+  <sentence test="10" text="A sentence that asks several questions and is still correct grammar might look like this: Who is responsible for executing the plan? the coach? the coaching staff? the players?" />
+  <!--Test exclamation marks-->
+  <sentence test="11" text="The bear went Grr!, and I went left." />
+</sentences>
+
+
